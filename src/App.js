@@ -218,7 +218,7 @@ captureFile(event) {
         <table className="titleBar">
         <tbody>
 
-          <h1 className='theHeading'>Interactive News!</h1>
+          <h1 className='theHeading'>Interactive News</h1>
           <p id='descHeading'>
             Articles stored on IPFS and the blockchain</p>
         </tbody>
